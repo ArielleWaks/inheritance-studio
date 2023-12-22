@@ -1,2 +1,2 @@
-public abstract class Quiz {
+public class Quiz {
 }
